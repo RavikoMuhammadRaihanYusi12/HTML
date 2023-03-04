@@ -1,0 +1,20 @@
+body{
+    background-color: darkgrey;
+    color: black;
+}
+#ukuran {
+    font-size: 18pt;
+    color: lawngreen;
+}
+
+.ukuran2 {
+    font-size: 18pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ukuran3 {
+    font-size: 15pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.p2{
+    font-size: 25pt;
+}
